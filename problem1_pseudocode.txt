@@ -1,0 +1,6 @@
+START
+user inputs num1 of pesos, store as num 1
+user inputs num2 of pesos, strore as num2
+sum both numbers (sum= num1 + num2)
+display sum
+END
