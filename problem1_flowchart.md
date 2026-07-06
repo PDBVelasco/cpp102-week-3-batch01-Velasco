@@ -1,4 +1,4 @@
- ~~~ Mermaid.md
+ ~~~ mermaid
  flowchart TD
     A[Start] --> B(Input)
     B --> C[Numb1]
