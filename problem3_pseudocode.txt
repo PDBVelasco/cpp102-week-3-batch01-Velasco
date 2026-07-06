@@ -1,0 +1,5 @@
+START
+user inputs numb1, store as "hourly rate"
+user inputs numb2, store as "hours worked"
+compute the gross pay (numb1 x numb2 = gross pay)
+Display "gross pay"

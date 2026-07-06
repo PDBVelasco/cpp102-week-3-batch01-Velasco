@@ -1,0 +1,6 @@
+START
+Input numb1
+Input numb2
+"Gross pay" = (numb1 x numb2)
+Display "Gross pay"
+END

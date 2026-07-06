@@ -6,5 +6,5 @@
     C --> E[Multiply numb1 + numb 2]
     D --> E
     E --> F{Product}
-    F --> G(Display Sum)
+    F --> G(Display Product)
     G --> H(END)
