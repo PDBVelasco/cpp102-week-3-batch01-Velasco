@@ -1,0 +1,6 @@
+START
+input numb1
+input numb2 
+product = (numb1 x numb2)
+Display product
+END

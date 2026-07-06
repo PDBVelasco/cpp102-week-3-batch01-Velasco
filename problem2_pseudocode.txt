@@ -1,0 +1,6 @@
+START
+user inputs numb1, store as "width"
+user inputs numb2, satore as "Length"
+compute the area (lenth x width = area) or (numb1 x numb2 = "area")
+display the "area"
+END
