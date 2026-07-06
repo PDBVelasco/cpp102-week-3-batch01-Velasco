@@ -1,0 +1,7 @@
+START
+user inputs numb1
+user inputs numb2 
+user inputs numb3
+compute for the average (average = (numb1 + numb2 + numb3)/0.5)
+display average
+END

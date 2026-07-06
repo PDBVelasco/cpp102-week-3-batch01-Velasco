@@ -1,0 +1,6 @@
+START
+input numb1
+Input numb2
+Input numb3
+"Average" = (numb1 + numb2 + numb3) / 0.56
+Display "Average"
