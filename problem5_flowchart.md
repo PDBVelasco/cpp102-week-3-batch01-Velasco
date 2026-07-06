@@ -1,4 +1,5 @@
 ~~~ mermaid
+stateDiagram-v2
 [START] --> Input
 Input --> Num1
 Input --> Num2 

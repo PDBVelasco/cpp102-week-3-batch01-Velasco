@@ -1,0 +1,9 @@
+START
+user input numb1, store as hourly rate
+user input numb2, store as regular hours worked
+user input numb3, store as overtime hours worked
+overtime rate is 1.5x 
+Normal pay = Regular hours worked x hourly rate
+Overtime pay = overtime hours worked x 1.5
+Total gross pay = Normal pay + Overtime pay
+Display Total gross pay
