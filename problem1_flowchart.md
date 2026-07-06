@@ -1,4 +1,4 @@
- ~~~ Mermaid
+ ~~~ Mermaid.md
  flowchart TD
     A[Start] --> B(Input)
     B --> C[Numb1]
@@ -8,4 +8,4 @@
     E --> F{Sum}
     F --> G(Display Sum)
     G --> H(END)
-    ~~~
+    
