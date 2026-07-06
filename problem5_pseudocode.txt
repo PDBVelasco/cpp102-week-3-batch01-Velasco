@@ -1,0 +1,9 @@
+START
+user inputs number for price
+user inputs number for quantity
+Group them under "Item 1"
+compute by first multiplying price with the amount (price x quantity = item num_)
+IF theres more than 1 "item" repeat line 5 and add 1 to the num counter after computation
+Add all the sum of each "item" and label the sum as "Total"
+DIsplay "Total"
+END

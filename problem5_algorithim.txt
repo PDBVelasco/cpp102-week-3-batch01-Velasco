@@ -1,0 +1,14 @@
+START
+input num1
+Num1 = "Price 1"
+input num2
+Num1 = "Quantity 1"
+Product = (num1 x num2)
+Product = "Item 1"
+IF more than "Price 1" and "Quantity 1" = Repeat line 5
+If line 5 Repeat = num1 = "Price 2" and num2 = "Quanrtity 2"
+Proceed line 6 and 7
+If else, "Item 1" = "Total" 
+Print "Total"
+END
+ 
